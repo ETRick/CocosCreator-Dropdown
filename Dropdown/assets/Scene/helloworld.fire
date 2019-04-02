@@ -41,9 +41,9 @@
     },
     "_scale": {
       "__type__": "cc.Vec3",
-      "x": 0.7169776240079134,
-      "y": 0.7169776240079134,
-      "z": 0.7169776240079134
+      "x": 0.6657958984375,
+      "y": 0.6657958984375,
+      "z": 0.6657958984375
     },
     "_quat": {
       "__type__": "cc.Quat",
@@ -667,9 +667,7 @@
     "_enabled": true,
     "_srcBlendFactor": 770,
     "_dstBlendFactor": 771,
-    "_spriteFrame": {
-      "__uuid__": "112955b0-3be0-4645-9f31-014434de83e3"
-    },
+    "_spriteFrame": null,
     "_type": 0,
     "_sizeMode": 0,
     "_fillType": 0,
@@ -1534,7 +1532,7 @@
     "_srcBlendFactor": 770,
     "_dstBlendFactor": 771,
     "_spriteFrame": {
-      "__uuid__": "112955b0-3be0-4645-9f31-014434de83e3"
+      "__uuid__": "410fb916-8721-4663-bab8-34397391ace7"
     },
     "_type": 0,
     "_sizeMode": 0,
@@ -1968,15 +1966,24 @@
   },
   {
     "__type__": "DropDownOptionData",
-    "optionString": "Option_1"
+    "optionString": "中国",
+    "optionSf": {
+      "__uuid__": "d4821be3-147c-4dac-b391-d187eb224f6d"
+    }
   },
   {
     "__type__": "DropDownOptionData",
-    "optionString": "Option_2"
+    "optionString": "俄罗斯",
+    "optionSf": {
+      "__uuid__": "064bb87d-0d74-46c2-ac6c-b4685bec19bd"
+    }
   },
   {
     "__type__": "DropDownOptionData",
-    "optionString": "Option_3"
+    "optionString": "日本",
+    "optionSf": {
+      "__uuid__": "b745e2ba-ac3f-4e37-b037-147e6101e241"
+    }
   },
   {
     "__type__": "cc.PrefabInfo",
